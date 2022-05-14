@@ -1,0 +1,1 @@
+this is my first time using python, its just a simple thing where if you type different responses, it opens a txt file with a response.
