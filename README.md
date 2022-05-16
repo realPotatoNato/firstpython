@@ -1,1 +1,2 @@
 this is my first time using python, its just a simple thing where if you type different responses, it opens a txt file with a response.
+(also the question and responses are all jokes, i actually like anime and dont think it's trash lol)
